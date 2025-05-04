@@ -1,0 +1,16 @@
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Editör / IDE klasörleri
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+# Geliştirici araçları (kullanılmıyor ama alışkanlık olarak eklenebilir)
+node_modules/
+.env
